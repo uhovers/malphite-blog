@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Malphite&apos;s blog</title>
+        <link>https://uhovers.github.io/malphite-blog</link>
+        <description>我的个人网站</description>
+        <lastBuildDate>Thu, 14 Apr 2022 10:22:40 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <item>
+            <link>https://uhovers.github.io/malphite-blog/</link>
+            <guid>https://uhovers.github.io/malphite-blog/</guid>
+            <pubDate>Thu, 14 Apr 2022 10:22:40 GMT</pubDate>
+            <description><![CDATA[::: tip
+首页
+:::]]></description>
+        </item>
+        <item>
+            <title><![CDATA[VuePress 用到的一些插件]]></title>
+            <link>https://uhovers.github.io/malphite-blog/vuepress/plugins-doc.html</link>
+            <guid>https://uhovers.github.io/malphite-blog/vuepress/plugins-doc.html</guid>
+            <pubDate>Wed, 13 Apr 2022 18:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <link>https://uhovers.github.io/malphite-blog/</link>
+            <guid>https://uhovers.github.io/malphite-blog/</guid>
+            <pubDate>Thu, 14 Apr 2022 10:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[收藏的一些网站]]></title>
+            <link>https://uhovers.github.io/malphite-blog/favorites/bookmark.html</link>
+            <guid>https://uhovers.github.io/malphite-blog/favorites/bookmark.html</guid>
+            <pubDate>Thu, 14 Apr 2022 10:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LeetCode刷题笔记]]></title>
+            <link>https://uhovers.github.io/malphite-blog/leetcode/leetcode-notes.html</link>
+            <guid>https://uhovers.github.io/malphite-blog/leetcode/leetcode-notes.html</guid>
+            <pubDate>Thu, 14 Apr 2022 11:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯云服务器放开端口]]></title>
+            <link>https://uhovers.github.io/malphite-blog/cloudserver/open-ports.html</link>
+            <guid>https://uhovers.github.io/malphite-blog/cloudserver/open-ports.html</guid>
+            <pubDate>Fri, 08 Apr 2022 15:40:05 GMT</pubDate>
+            <description><![CDATA[设置开机启用防火墙：systemctl enable firewalld.service]]></description>
+            <enclosure url="https://cdn.nlark.com/yuque/0/2022/png/27687102/1649733755578-6ed6c96b-7f6f-46f0-949a-a67cdd25b0e0.png#clientId=ud4ab3972-7a83-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=397&amp;id=u19eebd30&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=397&amp;originWidth=320&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=20501&amp;status=done&amp;style=none&amp;taskId=uaac2caa5-b514-4b14-9876-6117c1582a2&amp;title=&amp;width=320">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[服务器常用命令]]></title>
+            <link>https://uhovers.github.io/malphite-blog/cloudserver/server-command.html</link>
+            <guid>https://uhovers.github.io/malphite-blog/cloudserver/server-command.html</guid>
+            <pubDate>Thu, 14 Apr 2022 10:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数据结构]]></title>
+            <link>https://uhovers.github.io/malphite-blog/leetcode/data-structures.html</link>
+            <guid>https://uhovers.github.io/malphite-blog/leetcode/data-structures.html</guid>
+            <pubDate>Mon, 11 Apr 2022 16:22:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
